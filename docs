@@ -1,0 +1,28 @@
+* npm create vite
+
+confirma install
+
+name project
+
+selected
+    - react
+        - javascript
+
+
+open project in vscode
+
+delete all files in src
+except main.jsx
+
+install dependencias
+* npm install
+
+execute project
+* npm run dev
+
+**********
+Fixma2024
+**********
+<!-- https://giphy.com/login?next=%2Foauth%2Fauthorize%2F%3Fresponse_type%3Dcode%26client_id%3DC7yftGDVCAhmaTnJCKv3eNaRsANYTDDf7PA9jZbw%26redirect_uri%3Dhttps%253A%252F%252Fpartner-hub-api.giphy.com%252Fapi%252Fv1%252Flogin%253Fredirect_uri%253Dhttps%253A%252F%252Fdevelopers.giphy.com%252Fexplorer%252F%253Far%253D1 -->
+
+
