@@ -2,9 +2,6 @@ import { useState } from 'react';
 import { AddCategory, GifGrid } from './components';
 
 export const GifExpertApp = () => {
-    // const apiKey = 'FJ5vOJQgfyE3iDhYXhEWw0C3gQX0QKSF';
-
-    // https://api.giphy.com/v1/gifs/seach
 
     const [categories, setCategories] = useState([
         // 'Cumpleaños',
